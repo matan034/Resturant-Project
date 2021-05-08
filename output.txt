@@ -1,0 +1,10 @@
+The kitchen has been created
+4 Pasta were added to the kitchen
+we dont have Falafel in the kitchen, sorry!
+4 Pasta were added to table number 5
+1 Pasta was returned to the kitchen from table number 5
+The table number 1 is not ordered yet
+The bill on table 5 is:
+3 Pasta. 
+The total price is:90 NIS,please
+the most popular dish today is Pasta (was orderd 4 times)
